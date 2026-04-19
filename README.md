@@ -24,7 +24,7 @@ A end-to-end data analytics project analyzing **80,000 orders** from a quick com
 
 ---
 
-## 🔑 Key Metrics
+##  Key Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -38,7 +38,7 @@ A end-to-end data analytics project analyzing **80,000 orders** from a quick com
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### Delivery Performance
 - Delay rate peaks at **98.2% between 7–9 PM** — the evening rush window
@@ -62,7 +62,7 @@ A end-to-end data analytics project analyzing **80,000 orders** from a quick com
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **SQL Server** — Data cleaning, transformation, CTEs, window functions, multi-table joins
 - **Power BI** — Interactive dashboard with slicers (Month, Day), KPI cards, bar/scatter charts
@@ -70,7 +70,7 @@ A end-to-end data analytics project analyzing **80,000 orders** from a quick com
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── datasets/
@@ -88,7 +88,7 @@ A end-to-end data analytics project analyzing **80,000 orders** from a quick com
 
 ---
 
-## 💡 SQL Highlights
+##  SQL Highlights
 
 ```sql
 -- Delay rate by hour with buffer thresholds
